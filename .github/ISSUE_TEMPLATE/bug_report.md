@@ -32,7 +32,7 @@ assignees: ''
 ## Please provide additional information:
 - 💻 Operating system: 
 - ⚙ Architecture (x86 or ARM): 
-- 🔢 Librephotos version: 
+- 🔢 Librephotos version (docker image hash if using docker 'latest' tag): 
 - 📸 Librephotos installation method (Docker, Kubernetes, .deb, etc.): 
     * 🐋 If Docker or Kubernets, provide docker-compose image tag:
 - 📁 How is you picture library mounted (Local file system (Type), NFS, SMB, etc.): 
